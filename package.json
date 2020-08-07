@@ -1,0 +1,34 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "sl-ses.js",
+  "scripts": {
+    "start": "node sl-ses.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.2",
+    "node-opus": "^0.3.3",
+    "ytdl": "^1.2.0",
+    "ytdl-core": "^2.0.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
