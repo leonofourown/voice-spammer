@@ -1,0 +1,1 @@
+# tokenleri sese çekme
