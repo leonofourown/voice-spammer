@@ -75,7 +75,7 @@ const exdenytr50 = new Discord.Client();
 const exdenytr51 = new Discord.Client();
 const exdenytr52 = new Discord.Client();
 
-exdenytr1.login("tokenleri buraya ekleyin tek tek :D ");
+exdenytr1.login("add ur tokens here :D ");
 exdenytr2.login("");
 exdenytr3.login("");
 exdenytr4.login("");
