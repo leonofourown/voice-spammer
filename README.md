@@ -1,13 +1,16 @@
-You can set the link to play music from youtube
+ #note
+- You can set the link to play music from youtube
 
-tokens will enter  the voice channel with this command   [ .1274434 ]
+- Tokens will enter  the voice channel with this command   [ .1274434 ]
 
-Make sure you have entered the Voice channel before using the command
+- Make sure you have entered the Voice channel before using the command
 
-have fun))
+- Have fun))
 
-projeye eklediğin tokenleri oldugun ses kanalına çeker.
+[tr]
 
-müzik için youtube link ekleyebilirsin.
+- Projeye eklediğin tokenleri oldugun ses kanalına çeker.
 
-sese çekme komutu  [ .1274434 ]
+- Müzik için youtube link ekleyebilirsin.
+
+- Sese çekme komutu  [ .1274434 ]
