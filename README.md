@@ -6,6 +6,8 @@ Make sure you have entered the Voice channel before using the command
 
 have fun))
 
-projeye eklediğiniz tokenleri oldugunuz ses kanalına çeker.
+projeye eklediğin tokenleri oldugun ses kanalına çeker.
 
-müzik için youtube link ekleyebilirsiniz.
+müzik için youtube link ekleyebilirsin.
+
+sese çekme komutu  [ .1274434 ]
